@@ -1,0 +1,27 @@
+{
+  "name": "environmentmonitoring",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dayjs": "^1.10.7",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.8.2",
+    "vue": "^3.2.16",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "sass": "^1.43.4",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4",
+    "vite-plugin-html": "^2.1.1"
+  }
+}
