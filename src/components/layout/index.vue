@@ -27,10 +27,9 @@ export default defineComponent({
 
 <style lang="scss">
 .default {
-  @apply flex min-h-screen;
+  @apply min-h-screen;
   .main-container {
-    @apply mx-auto w-full overflow-y-auto;
-    // flex: 1 0 0;
+    @apply mx-auto w-full flex overflow-y-auto;
     max-width: 1920px;
   }
 }
